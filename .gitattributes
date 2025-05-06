@@ -1,2 +1,4 @@
 randomforest/StandardScaler.pkl filter=lfs diff=lfs merge=lfs -text
 randomforest/RandomForestClassifier.pkl filter=lfs diff=lfs merge=lfs -text
+randomforest/RandomForestClassifier_reducedset.pkl filter=lfs diff=lfs merge=lfs -text
+randomforest/StandardScaler_reducedset.pkl filter=lfs diff=lfs merge=lfs -text
