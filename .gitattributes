@@ -10,3 +10,5 @@ randomforest/RandomForestClassifier_reducedset_molecules.pkl filter=lfs diff=lfs
 randomforest/StandardScaler_reducedset_molecules.pkl filter=lfs diff=lfs merge=lfs -text
 randomforest/StandardScaler_reducedset_molecules_chgstate.pkl filter=lfs diff=lfs merge=lfs -text
 randomforest/RandomForestClassifier_reducedset_molecules_chgstate.pkl filter=lfs diff=lfs merge=lfs -text
+randomforest/RandomForestClassifier_reducedset_molecules_neighbors2.pkl filter=lfs diff=lfs merge=lfs -text
+randomforest/StandardScaler_reducedset_molecules_neighbors2.pkl filter=lfs diff=lfs merge=lfs -text
